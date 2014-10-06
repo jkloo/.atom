@@ -1,0 +1,41 @@
+{
+  "name": "switch-header-source",
+  "main": "./lib/switch-header-source",
+  "version": "0.8.0",
+  "description": "Quick switching between C/C++/Objective-C header and source files",
+  "activationEvents": [
+    "switch-header-source:switch"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dschwen/switch-header-source"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "fs-plus": "^2.0.4"
+  },
+  "keywords": [
+    "C++",
+    "C",
+    "Objective-C",
+    "Objective-C++",
+    "header",
+    "source",
+    "switch",
+    "navigarion"
+  ],
+  "readme": "Quick switching between C/C++/Objective-C header and source files.\n\nUse ```Ctrl-Option-s``` to switch from a ```.h``` to the corresponding ```.C``` file.\n\nThe logic that matches source and header consists of a list of rulesets consisting of regular expression text replacement rules. A ruleset is applied to the path if each of its rules produce a positive match **and** if the resulting path points to an existing file.",
+  "bugs": {
+    "url": "https://github.com/dschwen/switch-header-source/issues"
+  },
+  "homepage": "https://github.com/dschwen/switch-header-source",
+  "_id": "switch-header-source@0.8.0",
+  "dist": {
+    "shasum": "74b2c8d99ae4a8931d33153fadabc5f0c7d777a5"
+  },
+  "_resolved": "/private/var/folders/dy/r5prf2tn07792ftj9jkjm7fc0000gn/T/d-11496-2148-a3x2j9/package.tgz",
+  "_from": "/private/var/folders/dy/r5prf2tn07792ftj9jkjm7fc0000gn/T/d-11496-2148-a3x2j9/package.tgz"
+}

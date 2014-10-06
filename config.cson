@@ -1,0 +1,11 @@
+'editor':
+  'invisibles': {}
+  'fontSize': 14
+  'showInvisibles': true
+  'tabLength': 4
+  'scrollPastEnd': true
+'core':
+  'themes': [
+    'atom-dark-ui'
+    'bandicoot'
+  ]

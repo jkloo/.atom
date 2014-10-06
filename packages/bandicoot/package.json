@@ -1,0 +1,27 @@
+{
+  "name": "bandicoot",
+  "theme": "syntax",
+  "version": "0.0.6",
+  "description": "A dark background color scheme for Atom (Converted from https://github.com/jkloo/Bandicoot).",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jkloo/Bandicoot-Atom"
+  },
+  "private": false,
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# Bandicoot theme\n\nA dark background color scheme for Atom (Converted from https://github.com/jkloo/Bandicoot).\n\n![Screenshot](https://raw.githubusercontent.com/jkloo/Bandicoot-Atom/master/images/screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/jkloo/Bandicoot-Atom/issues"
+  },
+  "homepage": "https://github.com/jkloo/Bandicoot-Atom",
+  "_id": "bandicoot@0.0.6",
+  "dist": {
+    "shasum": "7ba97add10fd54c7ee5abd87f64dfb5fa2093b66"
+  },
+  "_resolved": "/private/var/folders/dy/r5prf2tn07792ftj9jkjm7fc0000gn/T/d-11496-2066-jb3eq0/package.tgz",
+  "_from": "/private/var/folders/dy/r5prf2tn07792ftj9jkjm7fc0000gn/T/d-11496-2066-jb3eq0/package.tgz"
+}
